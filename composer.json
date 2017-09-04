@@ -1,5 +1,5 @@
 {
-  "name": "ambimax/magento-module-honeyspam",
+  "name": "ambimax/magento-module-hackathon-honeyspam",
   "type": "magento-module",
   "description": "Spam protection module for various forms using honey pots.",
   "homepage": "https://github.com/magento-hackathon/HoneySpam",
